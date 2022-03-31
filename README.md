@@ -1,2 +1,4 @@
 # Produce-video
-A repository detailing how to generate a video from spatial data
+This repository details how to generate a video from spatial data
+-----------------------------------------------------------------------------------
+jgvkjgvgj
