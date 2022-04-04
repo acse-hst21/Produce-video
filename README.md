@@ -5,4 +5,4 @@ This repository details how to generate a video from spatial data. The video is 
 - Each individual *dat* file is then converted into a graph using the script *produceFrames.py* and stored in the *images* folder. 
 - The images are then converted into a video using the script *produceVideo.py*, as shown below.
 
-Wave_Propagation_Video(GIF).gif
+![alt-text](Wave_Propagation_Video(GIF).gif)
