@@ -10,7 +10,7 @@ This repository details how to generate a video from spatial data. The video is 
 ## How to use this code
 
 Cloning this repository will give the user access to all of the above code. For a user who already has spatial data, and would like to
-convert this data into a similar video, they can do so by following these steps:
+convert this data into a similar video, they can do so via the following steps:
 
 - After having cloned the repository, go into the *data* folder and delete all of the *dat* files there. Then, replace the deleted files with the relevant files.
 - Go into the images folder and delete all of the files.
@@ -23,5 +23,5 @@ pip install -r requirements.txt
 python .\produceFrames.py
 python .\produceVideo.py
 ```
-**Note: These are general instructions. The user will likely need to make some minor changes to the python scripts to accommodate for these differences
+**Note: These are general instructions. The user will likely need to make some minor changes to the python scripts to accommodate for any differences
 (e.g. the files containing the data will likely have different names to those given in the repository, and so the code will need to be amended accordingly).**
