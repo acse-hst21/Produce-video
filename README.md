@@ -23,3 +23,5 @@ pip install -r requirements.txt
 python .\produceFrames.py
 python .\produceVideo.py
 ```
+**Note: These are general instructions. The user will likely need to make some minor changes to the python scripts to accommodate for these differences
+(e.g. the files containing the data will likely have different names to those given in the repository, and so the code will need to be amended accordingly).**
