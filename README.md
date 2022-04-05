@@ -18,3 +18,8 @@ convert this data into a similar video, they can do so by following these steps:
 ```
 pip install -r requirements.txt
 ```
+- Now run the following commands to build the images and produce the video
+```
+python .\produceFrames.py
+python .\produceVideo.py
+```
