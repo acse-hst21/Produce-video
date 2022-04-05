@@ -6,3 +6,15 @@ This repository details how to generate a video from spatial data. The video is 
 - The images are then converted into a video using the script *produceVideo.py*, as shown below.
 
 ![alt-text](Wave_Propagation_Video(GIF).gif)
+
+## How to use this code
+
+Cloning this repository will give the user access to all of the above code. For a user who already has spatial data, and would like to
+convert this data into a similar video, they can do so by following these steps:
+
+- After having cloned the repository, go into the *data* folder and delete all of the *dat* files there. Then, replace the deleted files with the relevant files.
+- Go into the images folder and delete all of the files.
+- Run the following command in the terminal to ensure all the relevant packages are correctly installed  
+```
+pip install -r requirements.txt
+```
